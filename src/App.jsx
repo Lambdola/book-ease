@@ -7,8 +7,8 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-   <div className='text-xl bg-red-400'>
-    Olakh
+   <div className='text-xl h-screen w-full flex items-center justify-center bg-red-400'>
+    E no work keh ?
    </div>
   )
 }
