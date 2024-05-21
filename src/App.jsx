@@ -8,7 +8,7 @@ function App() {
 
   return (
    <div className='text-xl bg-red-400'>
-    Ola
+    Olakh
    </div>
   )
 }
